@@ -1,0 +1,68 @@
+body {
+    margin: 0;
+    font-family: "Sansita";
+    background-color: #fafafa;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+
+  /* fasilitas */
+
+  .heading {
+    margin: 2% 0% 1% 10%;
+    padding-top: 60px;
+    color: #5f5d60;
+    font-size: 48px;
+  }
+
+  .heading h2 {
+    font-weight: normal;
+    margin-block-end: 0%;
+  }
+
+  .fasilitas-wrapper {
+    height: 500px;
+    padding-bottom: 80px;
+    background-color: #f7f7f7;
+  }
+
+  .fasilitas {
+    float: left;
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+
+  .fasilitas-space {
+    margin-left: 8%;
+  }
+  
+
+  .fasilitas-icon img {
+    width: 269px;
+    height: 349px;
+    border-radius: 2em;
+    filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+    padding:20px;
+  }
+
+  .fasilitas-icon p {
+    position:absolute;
+    bottom: 2%;
+    width:100%;
+    font-size: 1.5em;
+    color:black;
+  }
+
+  .txt-contents {
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+
+
+
+  
